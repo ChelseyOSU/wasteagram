@@ -1,0 +1,13 @@
+CS 492
+Project 5: Wasteagram
+Name: Xiaoshi Zeng
+
+Extra credits content
+
+3. Integrate the use of in-app analytics (Analytics) to monitor application usage (extra 1% added to class grade)
+    - video showing FirebaseAnalytics code in app.dart, list_screen.dart etc
+    - video showing Firebase analytics dashboard collecting metrics
+
+4. Integrate the use of crash reporting (Sentry or Crashlytics) to record application crashes (extra 1% added to class grade)
+    - video showing code to log sentry crash logs
+    - video showing logs in sentry.io 

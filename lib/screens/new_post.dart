@@ -48,6 +48,7 @@ class _NewPostState extends State<NewPost> {
                   label: 'Picture of the wasted food.', 
                   child: Image.network('${url}')
                 ),
+                //Spacer(),
                 Semantics(
                   label: 'Number of entries.', 
                   child: Form(
@@ -71,6 +72,7 @@ class _NewPostState extends State<NewPost> {
                       )
                   ),
                 ),
+                //Spacer(),
                 Semantics(
                   button: true,
                   enabled: true,

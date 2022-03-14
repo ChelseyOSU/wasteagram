@@ -23,10 +23,6 @@ class ListScreen extends StatefulWidget {
 }
 
 class _ListScreenState extends State<ListScreen> {
-  // _ListScreenState(this.analytics, this.observer);
-  // final FirebaseAnalyticsObserver observer;
-  // final FirebaseAnalytics analytircs;
-
   String _message = '';
   int numOfItems = 0;
   num totalItems = 15;
